@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1730462463 source:c:\users\hp\desktop\github\cpp\atelier4\point\main.cpp
+	"point.h"
+
+1730461507 c:\users\hp\desktop\github\cpp\atelier4\point\point.h
+	<iostream>
+
